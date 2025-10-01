@@ -1,3 +1,5 @@
+**Download the files and put them on the correct folders(Follow the struture given below)
+
 # Scalable Web App with Authentication & Dashboard
 
 This project is a **full-stack web application** with authentication and a dashboard. It allows users to **signup/login**, manage tasks (CRUD), and view their profile. The frontend is built with **React.js**, and the backend uses **Node.js + Express** with **MongoDB** for data storage.
